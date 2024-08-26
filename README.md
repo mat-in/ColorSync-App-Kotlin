@@ -37,7 +37,7 @@ An Android application built with Kotlin and Jetpack Compose that demonstrates M
 
 MIT License
 
-Copyright (c) 2024 [Your Name or Your Organization's Name]
+Copyright (c) 2024 [Abdul Mateen R I]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
