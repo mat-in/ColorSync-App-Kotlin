@@ -27,11 +27,10 @@ An Android application built with Kotlin and Jetpack Compose that demonstrates M
 ## Screenshots
 ![Screenshot_20240827_022847](https://github.com/user-attachments/assets/d1d1a267-6977-4241-8422-3723659cc0f0)
 
+![Screenshot_20240827_022901](https://github.com/user-attachments/assets/6f18fe78-118d-4096-baa7-1bfbf71e6cb7)
+
+
 ![Screenshot_20240<img width="1469" alt="Screenshot 2024-08-27 at 2 31 46 AM" src="https://github.com/user-attachments/assets/f28b08b7-ae51-4e9d-9820-4952f526090d">
-
-
-827_022901](https://github.com/user-attachments/assets/1d27cdd3-b83a-4b1f-bf00-c9bf9627a043)
-
 
 
 ## License
