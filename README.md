@@ -6,14 +6,14 @@ https://github.com/user-attachments/assets/a120b1de-7e64-4768-8204-682e70169612
 
 
 
-An Android application built with Kotlin and Jetpack Compose that demonstrates MVVM architecture, offline functionality, and cloud synchronization.
+An Android application built with Kotlin and Jetpack Compose that demonstrates MVVM architecture, offline functionality(RoomDB), and cloud synchronization(Firebase).
 
 ## Features
 
 - Display a list of colors with timestamps
 - Add random colors to the list
 - Offline support using Room database
-- Cloud synchronization (Firebase or Google Sheets)
+- Cloud synchronization - Firebase 
 - Sync status indicator showing pending uploads
 
 ## Tech Stack
